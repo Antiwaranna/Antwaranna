@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tarun anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun anand" height="30" width="40" /></a>
-<a href="https://kaggle.com/tarun anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tarun anand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Tarun Anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tarun Anand" height="30" width="40" /></a>
+<a href="https://kaggle.com/Tarun Anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Tarun Anand" height="30" width="40" /></a>
 <a href="https://instagram.com/__ansh__tiwari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ansh__tiwari__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tarunanandit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunanandit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/human_antiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="human_antiwar" height="30" width="40" /></a>
